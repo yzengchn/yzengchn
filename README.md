@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<a href="https://blog.xcyd.xyz">
+<a href="https://blog.dollcode.cn">
   <img align="left" alt="blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/micro-dot-blog.svg" />
 </a>
 <a href="yzengchn@gmail.com">
